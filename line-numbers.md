@@ -1,10 +1,10 @@
 Mr. Mueller wuz here!
 #### 2
-3 Mr. Shmueller wuz here!
+ Mr. Shmueller wuz here!
 #### 4
 #### 5
 #### 6
-#### 7
+Hi,I am in sep class
 #### 8
 #### 9
 #### 10
