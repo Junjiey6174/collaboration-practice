@@ -6,7 +6,7 @@ hello i'm here
 #### 6
 Hi,I am in sep class
 #### 8
-GitHub is awesome
+GitHub is really good.
 #### 10
 #### 11
 #### 12
